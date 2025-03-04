@@ -14,7 +14,7 @@ It allows filtering by country, name, and other relevant criteria, providing an 
 - Java (NetBeans)
 - Database (MySQL/Derby)
 - GitHub for version control
-- Αφού η βάση δεδομένων δημιουργείται αυτόματα με κώδικα, μπορείς να προσαρμόσεις το **README** σου ως εξής:
+
 
 
 
